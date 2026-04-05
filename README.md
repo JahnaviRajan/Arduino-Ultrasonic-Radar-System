@@ -31,5 +31,3 @@ The Arduino sends angle and distance data to the computer, and Processing displa
 - Green radar sweep
 - Red detection area when object is detected
 
-## Author
-Your Name
